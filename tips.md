@@ -9,4 +9,4 @@
 * 配置bib-author：
     - 在`_config.yml`修改对应的`scholar.first_name`和`scholar.last_name`即可加粗自己的名字
 * 配置页面样式:
-    - `_sass/_base.scss`给主页面的联系方式`social`添加margin
+    - `_sass/_base.scss`给主页面的联系方式`social`添加padding (修改margin无效)
