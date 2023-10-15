@@ -7,4 +7,4 @@
 * 修改navigation bar：在`_pages/*.md`中设置`nav: false`即可隐藏对应页面
     - `blog`标签页的开关应该在`_config.yml`中的`blog_nav_title: `设为空
 * 配置bib-author：
-    - 在`_layouts/bib.html:line48-39`中的`site.scholar.first_name`和`site.scholar.last_name`交换即可加粗自己的名字
+    - 在`_config.yml`修改对应的`scholar.first_name`和`scholar.last_name`即可加粗自己的名字

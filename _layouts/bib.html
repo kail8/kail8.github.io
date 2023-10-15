@@ -45,8 +45,8 @@
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-          {%- if site.scholar.first_name contains author_last_name -%}
-            {%- if site.scholar.last_name contains author.first -%}
+          {%- if site.scholar.last_name contains author_last_name -%}
+            {%- if site.scholar.first_name contains author.first -%}
               {%- assign author_is_self = true -%}
             {%- endif -%}
           {%- endif -%}
@@ -70,7 +70,7 @@
             {%- if coauthor_url -%}
               <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
             {%- else -%}
-              {{author.first}} {{author.last}} {{site.scholar.first_name}} {{site.scholar.last_name}} {{author_last_name}} {{author.first}}
+              {{author.first}} {{author.last}}
             {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
