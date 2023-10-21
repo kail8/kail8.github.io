@@ -23,10 +23,12 @@ I am a Ph.D. student at the [College of Biomedical Engineering and Instrument Sc
 I am currently a research intern at City Brain Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/).
 
 My research interests lie in uncertainty estimation, middle-level image analysis (recognition, detection, tracking, _etc._), vision-language models, and large language models.
-I'm always looking for related colaboration. If you are interested to chat with me, feel free to drop me an [email](kail@zju.edu.cn). Here is my [CV](/cv/).
+I'm always looking for related collaboration. If you are interested to chat with me, feel free to drop me an [email](kail@zju.edu.cn). Here is my [CV](assets/pdf/Resume_Kai_Liu.pdf). 
+<!-- (/cv/) -->
 
 Listed below are the accepted papers in top conferences and journals where I worked as the first author.
-Here are the full lists of [publications](/publications/) and [projects](/projects/) that I participated in, and the corresponding source codes can be found in my [repositories](/repositories/).
+Here are the full lists of [publications](/publications/) and the repositories will come soon.
+<!-- [projects](/projects/) that I participated in, and the corresponding source codes can be found in my [repositories](/repositories/). -->
 I look forward to continuing to make valuable contributions to computer vision as well as natural language processing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
