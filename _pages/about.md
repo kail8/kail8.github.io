@@ -23,7 +23,7 @@ I am a Ph.D. student at the [College of Biomedical Engineering and Instrument Sc
 I am currently a research intern at City Brain Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/).
 
 My research interests lie in uncertainty estimation, open-world learning, middle-level image analysis (recognition, detection, tracking, _etc._), vision-language applications, and large language models.
-I'm always looking for related collaboration. If you are interested to chat with me, feel free to drop me an <a href="kail@zju.edu.cn">email</a>. Here is my [CV](assets/pdf/Resume_Kai_Liu.pdf). 
+I'm always looking for related collaboration. If you are interested to chat with me, feel free to drop me an [email](mailto:kail@zju.edu.cn). Here is my [CV](assets/pdf/Resume_Kai_Liu.pdf). 
 <!-- (/cv/) -->
 
 Listed below are the accepted papers in top conferences and journals where I worked as the first author.
