@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accpted by NeurIPS'23!
+**Two** papers are accpted by **NeurIPS'23**!

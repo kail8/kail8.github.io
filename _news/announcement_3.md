@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accpted by ICLR'24!
+**One** paper is accpted by **ICLR'24**!

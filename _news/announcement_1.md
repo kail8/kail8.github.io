@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper U2MOT was accpted by ICCV'23!
+My **first** paper U2MOT was accpted by **ICCV'23**!
