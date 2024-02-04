@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Recipient of Alibaba Cloud's Outstanding Research Intern Award (top-5%)!
+Recipient of Alibaba Cloud's [Outstanding Research Intern Award](assets/img/award/alibaba_2024_RI.jpg) (top-5%)!
