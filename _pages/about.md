@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student at the [College of Biomedical Engineering and Instrument Science](http://www.cbeis.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), during the supervision from [Prof. Fan Zhou](https://person.zju.edu.cn/fanzhou) and [Prof. Yaowu Chen](https://person.zju.edu.cn/0088219) from 2020 to present.
-I am currently a research intern at Apsar Lab, Alibaba Cloud.
+I am currently a research intern at Apsara Lab, Alibaba Cloud.
 <!-- City Brain Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/). -->
 
 My research interests lie in uncertainty estimation, open-world learning, middle-level image analysis (recognition, detection, tracking, _etc._), vision-language applications, and large language models.
