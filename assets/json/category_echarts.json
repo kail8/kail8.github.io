@@ -1,0 +1,106 @@
+{
+    "name": "JavisBench",
+    "children": [
+        {
+            "name": "Event Scenario",
+            "children": [
+                {
+                    "name": "Natural",
+                    "value": 0
+                },
+                {
+                    "name": "Urban",
+                    "value": 0
+                },
+                {
+                    "name": "Living",
+                    "value": 0
+                },
+                {
+                    "name": "Industrial",
+                    "value": 0
+                },
+                {
+                    "name": "Virtual",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Visual Style",
+            "children": [
+                {
+                    "name": "Camera",
+                    "value": 0
+                },
+                {
+                    "name": "2D-Animate",
+                    "value": 0
+                },
+                {
+                    "name": "3D-Animate",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Sound Type",
+            "children": [
+                {
+                    "name": "Ambient",
+                    "value": 0
+                },
+                {
+                    "name": "Biological",
+                    "value": 0
+                },
+                {
+                    "name": "Mechanical",
+                    "value": 0
+                },
+                {
+                    "name": "Musical",
+                    "value": 0
+                },
+                {
+                    "name": "Speech",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Temporal Composition",
+            "children": [
+                {
+                    "name": "Single",
+                    "value": 0
+                },
+                {
+                    "name": "Sequential",
+                    "value": 0
+                },
+                {
+                    "name": "Simultaneous",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "name": "Spatial Subjects",
+            "children": [
+                {
+                    "name": "Single",
+                    "value": 0
+                },
+                {
+                    "name": "Multiple",
+                    "value": 0
+                },
+                {
+                    "name": "Off-screen",
+                    "value": 0
+                }
+            ]
+        }
+    ]
+}
