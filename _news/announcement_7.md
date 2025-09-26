@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Two** papers are accepted by **NeurIPS'24**! Code are released!
+**Three** papers are accepted by **NeurIPS'24**! Code and model are released!
